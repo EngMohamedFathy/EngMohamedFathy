@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohamed Fathy</h1>
 
 <p align="center">
-  🔧 <strong>Backend Developer | 4+ Years of Experience</strong><br>
+  🔧 <strong>Software Engineer | Senior Backend Developer | 4+ Years of Experience</strong><br>
   💡 Passionate about building scalable backend systems and solving complex problems
 </p>
 
