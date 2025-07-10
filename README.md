@@ -37,12 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
 </p>
 
----
-
-Let me know if you'd like the same section exported as a file or embedded directly into a full GitHub `README.md`.
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
