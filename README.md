@@ -41,15 +41,6 @@
 
 Let me know if you'd like the same section exported as a file or embedded directly into a full GitHub `README.md`.
 
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngMohamedFathy&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
